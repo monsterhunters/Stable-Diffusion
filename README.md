@@ -8,7 +8,7 @@
 ### SD Forge by me
 | Colab | Info | Version
 | --- | --- | ---
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/monsterhunters/Stable-Diffusion/blob/main/notebook/sd-forgeV3.ipynb) | SD Forge | Based on version 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Stable-Diffusion/blob/main/notebook/sd-forgeV3.ipynb) | SD Forge | Based on version 
 
 | Colab | Info | Version
 | --- | --- | ---
