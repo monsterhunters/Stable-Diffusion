@@ -5,6 +5,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Stable-Diffusion/blob/main/New_SD_V4_1C.ipynb) | Automatic1111 Update Lora | Based on version 1.10.0
 
 
+
+### Whisper
+| Colab | Info | Version
+| --- | --- | ---
+[![Open In Colab](https://colab.research.google.com/github/jhj0517/Whisper-WebUI/blob/master/notebook/whisper-webui.ipynb) | Whisper | Based on version 
+
+
 ### SD Forge by me
 | Colab | Info | Version
 | --- | --- | ---
