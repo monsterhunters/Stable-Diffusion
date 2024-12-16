@@ -9,7 +9,7 @@
 ### Whisper
 | Colab | Info | Version
 | --- | --- | ---
-[![Open In Colab](https://colab.research.google.com/github/jhj0517/Whisper-WebUI/blob/master/notebook/whisper-webui.ipynb) | Whisper | Based on version 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhj0517/Whisper-WebUI/blob/master/notebook/whisper-webui.ipynb) | Whisper | Based on version 
 
 
 ### SD Forge by me
