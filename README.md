@@ -7,7 +7,7 @@
 ### Flux
 | Colab | Info | Version
 | --- | --- | ---
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Flux-Colab-GUI/blob/main/Flux_gradio.ipynb) | Flux | Optimized for colab, Mod by Me
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Flux-Colab-GUI/blob/main/Flux_gradio.ipynb) | Flux | Optimized for colab, Mod by Me
 
 ### Whisper
 | Colab | Info | Version
