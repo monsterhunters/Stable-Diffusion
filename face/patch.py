@@ -1,5 +1,5 @@
 # Path to the core.py file
-file_path = '/facefusion/facefusion/uis/layouts/default.py'
+file_path = './facefusion/uis/layouts/default.py'
 
 # Read the content of the file
 with open(file_path, 'r') as file:
