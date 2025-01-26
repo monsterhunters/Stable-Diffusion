@@ -17,7 +17,7 @@
 ### FaceX
 | Colab | Info | Version
 | --- | --- | ---
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Stable-Diffusion/blob/main/FaceX.ipynb) | FaceX | Based on version 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Stable-Diffusion/blob/main/FaceX.ipynb) | FaceFusion | Based on version 3.1.1
 
 ### SD Forge by me
 | Colab | Info | Version
