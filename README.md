@@ -14,7 +14,7 @@
 | --- | --- | ---
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhj0517/Whisper-WebUI/blob/master/notebook/whisper-webui.ipynb) | Whisper | Based on version 
 
-### FaceX
+### FaceFusion
 | Colab | Info | Version
 | --- | --- | ---
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Stable-Diffusion/blob/main/FaceX.ipynb) | FaceFusion | Based on version 3.1.1
